@@ -5,6 +5,7 @@ A python package for the MSF 2020 Bootcamp
 
 # Add imports here
 from .functions import *
+from .atomdata import atomic weights,atom_colors
 
 # Handle versioneer
 from ._version import get_versions
